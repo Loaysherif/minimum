@@ -23,4 +23,4 @@ The code performs the following:
 ## Example Output
 [3, 5, 62, 48, 84, 75, 849, 1]
 The least value is 1
-![image](https://github.com/user-attachments/assets/538c68a1-b9f4-433e-b161-f3e9e647884f)
+![image](https://github.com/user-attachments/assets/71d4badf-8e74-4a21-aa7e-0ef9b9f34043)
